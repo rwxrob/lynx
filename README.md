@@ -13,6 +13,7 @@ This is Lynx with my preferred settings including:
 * Accept Cookies
 * SSL Certificates Included
 * Minimal interface
+* Lies about User-Agent
 
 I prefer this setup because I can do all my browsing and research with
 just my right hand (so my left can hold a cup of coffee).
