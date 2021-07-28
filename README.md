@@ -23,7 +23,7 @@ just my right hand (so my left can hold a cup of coffee).
 Using the Docker image above is the preferred way to get going quickly.
 But if you wish to add `lynx` to your own system consider the following.
 
-On Debian and Ubuntu `sudo update && sudo apt -y install lynx` works.
+On Debian and Ubuntu `sudo apt update && sudo apt -y install lynx` works.
 
 If for some reason you don't have the ability to change files in
 `/etc/lynx` then consider putting them in `~/.config/lynx` instead and
